@@ -1,6 +1,6 @@
 // ============================================
 // Bank Entry & Monitoring System
-// Combines: LED Mode Controller (Licence 3)
+// Combines: LED Mode Controller
 //         + Servo Motor Scanner (Bank Monitoring)
 // Author: Nada Djazari — University of Jijel
 // ============================================
